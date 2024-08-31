@@ -24,9 +24,17 @@ Before running this application, ensure you have the following installed:
 Follow the instructions below to get a copy of the project up and running on your local machine.
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/your-username/react-todo-list.git
+```
+### 2.Open the react-todo-list folder
+```bash
 cd react-todo-list
+```
+
+### 3.Install the required dependencies 
+```bash 
 npm install
+```
+### 4.And last run the application and enjoy it 
 npm run dev
