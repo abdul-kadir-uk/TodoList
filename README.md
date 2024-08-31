@@ -37,4 +37,6 @@ cd react-todo-list
 npm install
 ```
 ### 4.And last run the application and enjoy it 
+```bash 
 npm run dev
+```
